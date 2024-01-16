@@ -14,7 +14,7 @@ This project, developed by Adeel and Shayan, provides a convenient way for Rutge
 3. **Send**: With a click, your message will be sent to all students in the course.
 
 ## Installation
-1. Down the .py file
+1. Download the .py file
 2. Open it in an IDE (VSCode, etc)
 3. Enter your Canvas API Key (Account -> Settings ->New Access Token) and course ID
 4. Make sure to add your GroupMe link in the title/body (near the last lines of code)
