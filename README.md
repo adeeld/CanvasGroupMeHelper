@@ -1,7 +1,7 @@
 # Rutgers CanvasGroupMeHelper
 
 ## Overview
-This project, developed by [Your Name] and Shayan, provides a convenient way for Rutgers students to communicate with their classmates. By inputting a course ID, students can easily send messages to everyone enrolled in that class. This tool is particularly useful for sharing GroupMe links and other important class-related information.
+This project, developed by Adeel and Shayan, provides a convenient way for Rutgers students to communicate with their classmates. By inputting a course ID, students can easily send messages to everyone enrolled in that class. This tool is particularly useful for sharing GroupMe links and other important class-related information.
 
 ## Features
 - **Course ID Input**: Allows users to enter the specific course ID for their Rutgers class.
