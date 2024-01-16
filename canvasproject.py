@@ -72,7 +72,7 @@ for student in students:
 subject = input("input your GroupMe link here: ")
 body = input("Input your body for GroupMe message: ")
 
-# send a message in batches (very cool)
+# send a message in batches (very cool!!!)
 responses = send_messages_in_batches(student_ids, subject, body)
 
 # printing responses for logging purposes
